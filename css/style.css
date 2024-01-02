@@ -1,0 +1,32 @@
+body{
+    background-color: #24353F;
+    font-family: sans-serif;
+
+}
+h1{
+    color: #17a2b8;
+    font-size: 40px;
+}
+.login-content{
+    box-shadow: 10px 10px 30px 8px rgba(0,0,0,0.8) ;
+
+}
+
+.form-control:focus 
+{
+    border-color:#17a2b8;
+    box-shadow: none;
+}
+.signup-contentr{
+    box-shadow: 10px 10px 30px 8px rgba(0,0,0,0.8) ;
+   
+
+}
+.home-content{
+    box-shadow: 10px 10px 30px 8px rgba(0,0,0,0.8) ;
+    justify-content: ;
+
+}
+#welcomeMassage{
+    color: #17a2b8;
+}
